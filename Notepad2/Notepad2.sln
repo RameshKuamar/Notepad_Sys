@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notepad2", "Notepad2\Notepad2.csproj", "{2844331A-3944-4186-B1E5-DB93A799DC49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2", "..\Game2\Game2\Game2.csproj", "{A0556017-AC11-4172-8750-282C2D2364D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2844331A-3944-4186-B1E5-DB93A799DC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2844331A-3944-4186-B1E5-DB93A799DC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2844331A-3944-4186-B1E5-DB93A799DC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2844331A-3944-4186-B1E5-DB93A799DC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0556017-AC11-4172-8750-282C2D2364D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0556017-AC11-4172-8750-282C2D2364D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0556017-AC11-4172-8750-282C2D2364D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0556017-AC11-4172-8750-282C2D2364D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
